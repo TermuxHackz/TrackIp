@@ -30,5 +30,5 @@ A tool specially made for tracing location and giving details about victim from 
 
 > bash trackip.sh
 
-# Discalimer
+# Disclaimer
 ```Use this tool only for educational purposes as this tool is not responsible for any harm```
